@@ -3435,9 +3435,9 @@ GT66.hmm             -            693 Anasp1|Anasp1_299048 -            142     
 # Program:         hmmscan
 # Version:         3.1b2 (February 2015)
 # Pipeline mode:   SCAN
-# Query file:      pep/Anasp1.aa.fasta
+# Query file:      pep/Anaeromyces_robustus_S4.Anasp1.v1.aa.fasta
 # Target file:     /srv/projects/db/CAZY/CAZyDB/5.0/dbCAN-fam-HMMs.txt.v5
-# Option settings: hmmscan -o domains/CAZY/Anasp1.hmmscan --domtblout domains/CAZY/Anasp1.domtbl --cpu 2 /srv/projects/db/CAZY/CAZyDB/5.0/dbCAN-fam-HMMs.txt.v5 pep/Anasp1.aa.fasta 
+# Option settings: hmmscan -o domains/CAZY/Anaeromyces_robustus_S4.Anasp1.v1.aa.hmmscan --domtblout domains/CAZY/Anaeromyces_robustus_S4.Anasp1.v1.aa.domtbl --cpu 2 /srv/projects/db/CAZY/CAZyDB/5.0/dbCAN-fam-HMMs.txt.v5 pep/Anaeromyces_robustus_S4.Anasp1.v1.aa.fasta 
 # Current dir:     /bigdata/stajichlab/shared/projects/Neocallomasticomycota/AGF_Comparative
-# Date:            Wed Oct 11 10:49:46 2017
+# Date:            Wed Oct 11 11:21:06 2017
 # [ok]
