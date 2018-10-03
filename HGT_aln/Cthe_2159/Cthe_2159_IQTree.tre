@@ -1,0 +1,305 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=203;
+	taxlabels
+	'A1_A1_30720_Gene.30720__TR16052_c0_g1_i1__g.30720__m.30720_type_complete_len_679_gc_universal_TR1605'[&!color=#ff0000]
+	'A1_A1_30723_Gene.30723__TR16052_c0_g1_i4__g.30723__m.30723_type_3prime_partial_len_456_gc_universal'[&!color=#ff0000]
+	'A1_A1_999_Gene.999__TR694_c0_g1_i1__g.999__m.999_type_3prime_partial_len_319_gc_universal_TR694_c0_g'[&!color=#ff0000]
+	Adlercreutzia_equolifaciens_S6C770_119-338
+	'Anaerotruncus_sp._G3_R9LFA9_56-387'
+	'Anasp1_Anasp1_265696_estExt_fgenesh1_pg.C_300017'[&!color=#0000ff]
+	'Anasp1_Anasp1_270435_estExt_fgenesh1_pg.C_2160005'[&!color=#0000ff]
+	'Anasp1_Anasp1_273069_estExt_fgenesh1_pg.C_4690004'[&!color=#0000ff]
+	'Anasp1_Anasp1_275012_gm1.1006_g'[&!color=#0000ff]
+	'Anasp1_Anasp1_293955_estExt_Genemark1.C_1370024'[&!color=#0000ff]
+	'Anasp1_Anasp1_294801_estExt_Genemark1.C_1800018'[&!color=#0000ff]
+	'Anasp1_Anasp1_295777_estExt_Genemark1.C_2400011'[&!color=#0000ff]
+	Anasp1_Anasp1_305391_MIX6333_534_54[&!color=#0000ff]
+	'Anasp1_Anasp1_327961_fgenesh2_kg.144___5___Locus2493v1rpkm20.65'[&!color=#0000ff]
+	'Anasp1_Anasp1_328840_fgenesh2_kg.212___8___Locus3716v1rpkm10.41'[&!color=#0000ff]
+	'Anasp1_Anasp1_329210_fgenesh2_kg.250___4___Locus3155v1rpkm13.95'[&!color=#0000ff]
+	'Anasp1_Anasp1_330057_fgenesh2_kg.354___1___Locus4058v1rpkm8.90'[&!color=#0000ff]
+	'Anasp1_Anasp1_330058_fgenesh2_kg.354___2___Locus11202v1rpkm0.82'[&!color=#0000ff]
+	'Anasp1_Anasp1_330234_fgenesh2_kg.380___1___Locus4694v1rpkm6.73'[&!color=#0000ff]
+	'Anasp1_Anasp1_330235_fgenesh2_kg.380___2___Locus3373v1rpkm12.52'[&!color=#0000ff]
+	'B4_B4_53914_Gene.53914__TR32771_c0_g9_i1__g.53914__m.53914_type_5prime_partial_len_561_gc_universal'[&!color=#ff0000]
+	'B4_B4_53918_Gene.53918__TR32771_c0_g9_i4__g.53918__m.53918_type_internal_len_488_gc_universal_TR3277'[&!color=#ff0000]
+	'B4_B4_57595_Gene.57595__TR33243_c3_g1_i6__g.57595__m.57595_type_internal_len_366_gc_universal_TR3324'[&!color=#ff0000]
+	'B4_B4_59147_Gene.59147__TR33418_c2_g1_i1__g.59147__m.59147_type_3prime_partial_len_593_gc_universal'[&!color=#ff0000]
+	'B5_B5_50142_Gene.50142__TR46599_c6_g2_i2__g.50142__m.50142_type_internal_len_308_gc_universal_TR4659'[&!color=#ff0000]
+	'B5_B5_50542_Gene.50542__TR46673_c2_g1_i2__g.50542__m.50542_type_3prime_partial_len_353_gc_universal'[&!color=#ff0000]
+	'B5_B5_55629_Gene.55629__TR47210_c13_g1_i1__g.55629__m.55629_type_internal_len_576_gc_universal_TR472'[&!color=#ff0000]
+	Bacillus_azotoformans_K6DIH1_91-377
+	Bacteroides_cellulosilyticus_R6KIA5_117-382
+	Bacteroides_thetaiotaomicron_Q8A6T0_117-361
+	Blautia_sp_R7JSW3_124-384
+	Brachybacterium_phenoliresistens_Z9JUC2_86-337
+	'Brit4_Brit4_25893_TRINITY_DN7167_c0_g1__TRINITY_DN7167_c0_g1_i1__g.25893__m.25893_TRINITY_DN7167_c0_'[&!color=#ff0000]
+	'Brit4_Brit4_2790_TRINITY_DN6737_c7_g4__TRINITY_DN6737_c7_g4_i1__g.2790__m.2790_TRINITY_DN6737_c7_g4_'[&!color=#ff0000]
+	'Brit4_Brit4_6442_TRINITY_DN6436_c6_g1__TRINITY_DN6436_c6_g1_i1__g.6442__m.6442_TRINITY_DN6436_c6_g1_'[&!color=#ff0000]
+	'Brit4_Brit4_6443_TRINITY_DN6436_c6_g2__TRINITY_DN6436_c6_g2_i1__g.6443__m.6443_TRINITY_DN6436_c6_g2_'[&!color=#ff0000]
+	'Brit4_Brit4_7458_TRINITY_DN6466_c3_g4__TRINITY_DN6466_c3_g4_i1__g.7458__m.7458_TRINITY_DN6466_c3_g4_'[&!color=#ff0000]
+	Butyrivibrio_crossotus_R5LE19_73-318
+	Butyrivibrio_proteoclasticus_E0S0X0_131-383
+	'C3G_C3G_16487_TRINITY_DN5465_c0_g1__TRINITY_DN5465_c0_g1_i1__g.16487__m.16487_type_complete_len_648'[&!color=#ff0000]
+	'C3G_C3G_17122_TRINITY_DN14770_c0_g1__TRINITY_DN14770_c0_g1_i1__g.17122__m.17122_type_complete_len_63'[&!color=#ff0000]
+	'C3G_C3G_3365_TRINITY_DN23581_c0_g1__TRINITY_DN23581_c0_g1_i1__g.3365__m.3365_type_internal_len_281_g'[&!color=#ff0000]
+	'C3G_C3G_5587_TRINITY_DN6718_c0_g1__TRINITY_DN6718_c0_g1_i1__g.5587__m.5587_type_3prime_partial_len_6'[&!color=#ff0000]
+	'C3G_C3G_6164_TRINITY_DN8951_c1_g1__TRINITY_DN8951_c1_g1_i1__g.6164__m.6164_type_complete_len_632_gc_'[&!color=#ff0000]
+	'C3J_C3J_32897_TR13792_c1_g1_i1__g.32897__m.32897_type_3prime_partial_len_340_gc_universal_TR13792_c1'[&!color=#ff0000]
+	'C3J_C3J_32903_TR13792_c1_g3_i5__g.32903__m.32903_type_3prime_partial_len_481_gc_universal_TR13792_c1'[&!color=#ff0000]
+	'C3J_C3J_33178_TR13816_c0_g1_i2__g.33178__m.33178_type_5prime_partial_len_643_gc_universal_TR13816_c0'[&!color=#ff0000]
+	'C3J_C3J_47439_TR23786_c0_g1_i1__g.47439__m.47439_type_complete_len_615_gc_universal_TR23786_c0_g1_i1'[&!color=#ff0000]
+	Capnocytophaga_sp_F0IGU7_95-376
+	Cellulomonas_fimi_F4H3C7_106-370
+	'Cellulomonas_flavigena_WP_013116373.1_hypothetical_protein__Cellulomonas_flavigena_'
+	'Cellulomonas_flavigena_WP_013116374.1_hypothetical_protein__Cellulomonas_flavigena_'
+	Clostridiales_bacterium_C5EMF8_149-397
+	Clostridium_celatum_L1Q6H2_67-347
+	Clostridium_lentocellum_F2JJB4_102-355
+	Clostridium_lentocellum_F2JP69_95-395
+	Clostridium_stercorarium_L7VQR5_90-387
+	Clostridium_thermocellum_A3DDD5_139-377
+	Clostridium_thermocellum_A3DHD2_56-282
+	Coprobacillus_sp_R5FW97_289-548
+	Coprobacillus_sp_R7DND1_73-327
+	Cryptobacterium_curtum_C7MME2_108-359
+	Desulfitobacterium_hafniense_Q24Y85_86-386
+	Desulfosporosinus_youngiae_H5XXH7_79-371
+	Eggerthella_lenta_C8WKR1_151-371
+	Erysipelotrichaceae_bacterium_E2SKD2_64-342
+	Eubacterium_eligens_C4Z222_81-435
+	Eubacterium_infirmum_H1PJH2_85-332
+	'FS3C_FS3C_28347_TRINITY_DN5516_c4_g2__TRINITY_DN5516_c4_g2_i1__g.28347__TRINITY_DN5516_c4_g2__TRINIT'[&!color=#ff0000]
+	'FS3C_FS3C_28354_TRINITY_DN5516_c4_g7__TRINITY_DN5516_c4_g7_i1__g.28354__TRINITY_DN5516_c4_g7__TRINIT'[&!color=#ff0000]
+	'FS3C_FS3C_4471_TRINITY_DN5958_c1_g1__TRINITY_DN5958_c1_g1_i6__g.4471__TRINITY_DN5958_c1_g1__TRINITY_'[&!color=#ff0000]
+	'FX4B_FX4B_18029_TRINITY_DN3737_c1_g1__TRINITY_DN3737_c1_g1_i1__g.18029__TRINITY_DN3737_c1_g1__TRINIT'[&!color=#ff0000]
+	'FX4B_FX4B_30089_TRINITY_DN4311_c8_g2__TRINITY_DN4311_c8_g2_i1__g.30089__TRINITY_DN4311_c8_g2__TRINIT'[&!color=#ff0000]
+	Faecalibacterium_sp_R7ILX8_40-324
+	Fibrobacter_succinogenes_C9RN77_191-498
+	Fibrobacter_succinogenes_D9S755_112-377
+	Firmicutes_bacterium_R6F067_70-304
+	Gemmatimonas_aurantiaca_C1AAE0_125-385
+	'Hef5_Hef5_24931_Gene.24931__TR17734_c0_g1_i1__g.24931__m.24931_Gene.24931__TR17734_c0_g1_i1__g.24931'[&!color=#ff0000]
+	'Hef5_Hef5_44591_Gene.44591__TR24946_c1_g1_i1__g.44591__m.44591_Gene.44591__TR24946_c1_g1_i1__g.44591'[&!color=#ff0000]
+	Holdemania_filiformis_B9YAY1_91-365
+	Hungatella_hathewayi_D3AMA3_63-315
+	'Iso3_Iso3_11920_Gene.11920__TR9769_c0_g1_i1__g.11920__m.11920_Gene.11920__TR9769_c0_g1_i1__g.11920'[&!color=#ff0000]
+	'Iso3_Iso3_12816_Gene.12816__TR10356_c0_g1_i1__g.12816__m.12816_Gene.12816__TR10356_c0_g1_i1__g.12816'[&!color=#ff0000]
+	'Iso3_Iso3_24744_Gene.24744__TR16877_c0_g1_i1__g.24744__m.24744_Gene.24744__TR16877_c0_g1_i1__g.24744'[&!color=#ff0000]
+	'Iso3_Iso3_28243_Gene.28243__TR18368_c0_g1_i1__g.28243__m.28243_Gene.28243__TR18368_c0_g1_i1__g.28243'[&!color=#ff0000]
+	'Iso3_Iso3_32479_Gene.32479__TR19937_c0_g2_i2__g.32479__m.32479_Gene.32479__TR19937_c0_g2_i2__g.32479'[&!color=#ff0000]
+	Jonesia_denitrificans_C7QZY8_91-348
+	Lachnospiraceae_bacterium_R6NI92_55-302
+	Lachnospiraceae_bacterium_R9J5D6_73-323
+	Lachnospiraceae_bacterium_R9KF64_92-341
+	Lachnospiraceae_bacterium_R9KQJ4_95-344
+	Marvinbryantia_formatexigens_C6LI05_95-382
+	Methanocorpusculum_labreanum_A2SQ64_83-403[&!color=#ff8000]
+	Methanofollis_liminatans_J0SB26_80-359[&!color=#ff8000]
+	Methanolacinia_petrolearia_E1RD34_94-376[&!color=#ff8000]
+	'NA_NA_2763_TR1415_c0_g1_i1__g.2763__m.2763_type_3prime_partial_len_442_gc_universal_TR1415_c0_g1_i1_'[&!color=#ff0000]
+	'NA_NA_28982_TR12624_c0_g1_i2__g.28982__m.28982_type_5prime_partial_len_649_gc_universal_TR12624_c0_g'[&!color=#ff0000]
+	'Neosp1_Neosp1_508092_fgenesh1_pg.76___20'[&!color=#ff0000]
+	'Neosp1_Neosp1_510107_fgenesh1_pg.104___8'[&!color=#ff0000]
+	'Neosp1_Neosp1_510108_fgenesh1_pg.104___9'[&!color=#ff0000]
+	'Neosp1_Neosp1_510110_fgenesh1_pg.104___11'[&!color=#ff0000]
+	Neosp1_Neosp1_620865_MIX894_8_30[&!color=#ff0000]
+	Neosp1_Neosp1_638851_MIX18880_149_98[&!color=#ff0000]
+	Neosp1_Neosp1_640852_MIX20881_3_16[&!color=#ff0000]
+	Neosp1_Neosp1_640854_MIX20883_2_14[&!color=#ff0000]
+	'Neosp1_Neosp1_670430_estExt_fgenesh1_pg.C_720053'[&!color=#ff0000]
+	'Neosp1_Neosp1_670432_estExt_fgenesh1_pg.C_720055'[&!color=#ff0000]
+	'Neosp1_Neosp1_679086_estExt_fgenesh1_pg.C_3900016'[&!color=#ff0000]
+	'Neosp1_Neosp1_679316_estExt_fgenesh1_pg.C_4210003'[&!color=#ff0000]
+	'Neosp1_Neosp1_702986_fgenesh2_kg.74___63___Locus7772v1rpkm5.12'[&!color=#ff0000]
+	'Neosp1_Neosp1_710198_fgenesh2_kg.421___1___Locus11590v1rpkm2.17'[&!color=#ff0000]
+	'Neosp1_Neosp1_710490_fgenesh2_kg.481___2___Locus2657v1rpkm30.43'[&!color=#ff0000]
+	Oceanobacillus_picturae_W9AMP1_76-417
+	Olsenella_sp_G5F167_130-400
+	Oribacterium_sinus_C2KW59_105-357
+	'Oribacterium_sp._oral_taxon_D4CKY0_76-312'
+	'Orpsp1_1_Orpsp1_1_1175978_evm.model.c7180000052847.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1179584_evm.model.c7180000066667.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1179702_evm.model.c7180000067110.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1179708_evm.model.c7180000067125.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1179782_evm.model.c7180000067400.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1180421_evm.model.c7180000070040.2'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1180902_evm.model.c7180000072120.2'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1181724_evm.model.c7180000075097.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1182088_evm.model.c7180000076574.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1186381_evm.model.c7180000094382.1'[&!color=#ff0000]
+	'Orpsp1_1_Orpsp1_1_1187945_evm.model.d7180000055626.1'[&!color=#ff0000]
+	'Paenibacillus_mucilaginosus_WP_014368460.1_carbohydrate-binding_domain-containing_protein__Paenibaci'
+	Paraprevotella_clara_R5NWY7_117-408
+	Peptostreptococcaceae_bacterium_J4TAQ5_87-323
+	'PirE2_1_PirE2_1_10137_gm1.8955_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_12494_gm1.11312_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_12496_gm1.11314_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_12497_gm1.11315_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_12499_gm1.11317_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_12505_gm1.11323_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_13245_gm1.12063_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_13282_gm1.12100_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_15943_gm1.14761_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_16996_gm1.15814_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_2486_gm1.1304_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_5043_gm1.3861_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_5441_gm1.4259_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_5442_gm1.4260_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_5444_gm1.4262_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_8199_gm1.7017_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_8821_gm1.7639_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_9301_gm1.8119_g'[&!color=#ff0000]
+	'PirE2_1_PirE2_1_9302_gm1.8120_g'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_336161_estExt_Genewise1.C_510190'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_345772_estExt_Genewise1Plus.C_6_t20199'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_356560_estExt_Genewise1Plus.C_33_t10035'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_409988_estExt_fgenesh1_pg.C_60199'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_414173_estExt_fgenesh1_pg.C_330005'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_581087_fgenesh2_kg.6___195___Locus1803v1rpkm17.71'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_584506_fgenesh2_kg.25___144___Locus1240v1rpkm29.60'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_585400_fgenesh2_kg.33___64___Locus3531v1rpkm7.00'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_585406_fgenesh2_kg.33___70___Locus6340v1rpkm2.60'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_585407_fgenesh2_kg.33___71___Locus5622v1rpkm3.31'[&!color=#ff0000]
+	'Pirfi3_Pirfi3_588453_fgenesh2_kg.90___1___Locus222v1rpkm360.96'[&!color=#ff0000]
+	Prevotella_sp_R5PPA9_100-374
+	Pseudarthrobacter_chlorophenolicus_B8HFZ5_99-345
+	Pseudoflavonifractor_capillosus_A6NRS6_135-438
+	Roseburia_inulinivorans_R5HY49_93-400
+	Ruminococcus_albus_E6UH17_81-445[&!color=#000000]
+	Ruminococcus_albus_E6UH47_75-327[&!color=#000000]
+	Ruminococcus_albus_E6UH50_143-458[&!color=#000000]
+	Ruminococcus_champanellensis_D4L9K5_123-388[&!color=#000000]
+	Ruminococcus_champanellensis_D4L9K5_469-775[&!color=#000000]
+	Ruminococcus_champanellensis_D4LFA6_96-370[&!color=#000000]
+	Ruminococcus_flavefaciens_W7UGE5_82-335[&!color=#000000]
+	Ruminococcus_flavefaciens_W7UM54_137-388[&!color=#000000]
+	Ruminococcus_flavefaciens_W7UM54_506-834[&!color=#000000]
+	Ruminococcus_flavefaciens_W7UW60_139-390[&!color=#000000]
+	'S4B_S4B_19211_TRINITY_DN10527_c0_g1__TRINITY_DN10527_c0_g1_i1__g.19211__m.19211_type_3prime_partial'[&!color=#ff0000]
+	'S4B_S4B_32602_TRINITY_DN3545_c0_g2__TRINITY_DN3545_c0_g2_i1__g.32602__m.32602_type_3prime_partial_le'[&!color=#ff0000]
+	Sanguibacter_keddieii_D1BCC2_100-367
+	Shuttleworthia_satelles_C4GCI5_90-332
+	Slackia_heliotrinireducens_C7N1V3_112-364
+	Slackia_piriformis_K0YXK2_115-365
+	Solobacterium_moorei_E7MPP4_87-336
+	Staphylococcus_R6UEN0_78-333
+	Syntrophobotulus_glycolicus_F0SYP4_82-361
+	Turicibacter_sanguinis_D4W5L2_74-354
+	'WSF2_WSF2_14310_TRINITY_DN6109_c5_g1__TRINITY_DN6109_c5_g1_i14__g.14310__TRINITY_DN6109_c5_g1__TRINI'[&!color=#ff0000]
+	'WSF2_WSF2_15374_TRINITY_DN6177_c10_g7__TRINITY_DN6177_c10_g7_i1__g.15374__TRINITY_DN6177_c10_g7__TRI'[&!color=#ff0000]
+	'WSF2_WSF2_1735_TRINITY_DN6269_c6_g1__TRINITY_DN6269_c6_g1_i21__g.1735__TRINITY_DN6269_c6_g1__TRINITY'[&!color=#ff0000]
+	'WSF2_WSF2_32250_TRINITY_DN6962_c5_g5__TRINITY_DN6962_c5_g5_i1__g.32250__TRINITY_DN6962_c5_g5__TRINIT'[&!color=#ff0000]
+	'WSF2_WSF2_44490_TRINITY_DN6013_c0_g1__TRINITY_DN6013_c0_g1_i9__g.44490__TRINITY_DN6013_c0_g1__TRINIT'[&!color=#ff0000]
+	'WSF3_WSF3_11808_TRINITY_DN8458_c5_g1__TRINITY_DN8458_c5_g1_i26__g.11808__TRINITY_DN8458_c5_g1__TRINI'[&!color=#ff0000]
+	'WSF3_WSF3_27727_TRINITY_DN8178_c2_g1__TRINITY_DN8178_c2_g1_i11__g.27727__TRINITY_DN8178_c2_g1__TRINI'[&!color=#ff0000]
+	'WSF3_WSF3_29255_TRINITY_DN9222_c3_g1__TRINITY_DN9222_c3_g1_i1__g.29255__TRINITY_DN9222_c3_g1__TRINIT'[&!color=#ff0000]
+	'WSF3_WSF3_38604_TRINITY_DN8603_c5_g2__TRINITY_DN8603_c5_g2_i3__g.38604__TRINITY_DN8603_c5_g2__TRINIT'[&!color=#ff0000]
+	'WSF3_WSF3_47915_TRINITY_DN10208_c3_g2__TRINITY_DN10208_c3_g2_i1__g.47915__TRINITY_DN10208_c3_g2__TRI'[&!color=#ff0000]
+	Weissella_confusa_H1X9B0_91-341
+	Xylanimonas_cellulosilytica_D1C0K7_108-371
+	'YC3_YC3_16201_TRINITY_DN3972_c6_g1__TRINITY_DN3972_c6_g1_i1__g.16201__m.16201_TRINITY_DN3972_c6_g1__'[&!color=#ff0000]
+	'YC3_YC3_20461_TRINITY_DN4105_c10_g5__TRINITY_DN4105_c10_g5_i1__g.20461__m.20461_TRINITY_DN4105_c10_g'[&!color=#ff0000]
+	'YC3_YC3_29332_TRINITY_DN761_c0_g1__TRINITY_DN761_c0_g1_i1__g.29332__m.29332_TRINITY_DN761_c0_g1__TRI'[&!color=#ff0000]
+	'YC3_YC3_29771_TRINITY_DN3520_c3_g1__TRINITY_DN3520_c3_g1_i2__g.29771__m.29771_TRINITY_DN3520_c3_g1__'[&!color=#ff0000]
+	'YC3_YC3_29772_TRINITY_DN3520_c3_g1__TRINITY_DN3520_c3_g1_i3__g.29772__m.29772_TRINITY_DN3520_c3_g1__'[&!color=#ff0000]
+	Youngiibacter_fragilis_V7I1Z8_98-374
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('A1_A1_30720_Gene.30720__TR16052_c0_g1_i1__g.30720__m.30720_type_complete_len_679_gc_universal_TR1605'[&!color=#ff0000]:2.0E-6,'A1_A1_30723_Gene.30723__TR16052_c0_g1_i4__g.30723__m.30723_type_3prime_partial_len_456_gc_universal'[&!color=#ff0000]:0.009382,((((((((((((((('Anasp1_Anasp1_273069_estExt_fgenesh1_pg.C_4690004'[&!color=#ff0000]:0.126825,'Anasp1_Anasp1_330058_fgenesh2_kg.354___2___Locus11202v1rpkm0.82'[&!color=#ff0000]:0.226938)[&label=67,!color=#ff0000]:0.04604,('Iso3_Iso3_24744_Gene.24744__TR16877_c0_g1_i1__g.24744__m.24744_Gene.24744__TR16877_c0_g1_i1__g.24744'[&!color=#ff0000]:0.310513,'WSF3_WSF3_47915_TRINITY_DN10208_c3_g2__TRINITY_DN10208_c3_g2_i1__g.47915__TRINITY_DN10208_c3_g2__TRI'[&!color=#ff0000]:0.1371)[&label=59,!color=#ff0000]:0.027832)[&label=92,!color=#ff0000]:0.038952,'PirE2_1_PirE2_1_8821_gm1.7639_g'[&!color=#ff0000]:0.218052)[&label=58,!color=#ff0000]:0.031651,(((('B4_B4_59147_Gene.59147__TR33418_c2_g1_i1__g.59147__m.59147_type_3prime_partial_len_593_gc_universal'[&!color=#ff0000]:0.090959,'Pirfi3_Pirfi3_585400_fgenesh2_kg.33___64___Locus3531v1rpkm7.00'[&!color=#ff0000]:0.165401)[&label=96,!color=#ff0000]:0.040507,'PirE2_1_PirE2_1_12505_gm1.11323_g'[&!color=#ff0000]:0.06846)[&label=98,!color=#ff0000]:0.051438,(('Hef5_Hef5_44591_Gene.44591__TR24946_c1_g1_i1__g.44591__m.44591_Gene.44591__TR24946_c1_g1_i1__g.44591'[&!color=#ff0000]:0.044051,(('Neosp1_Neosp1_710198_fgenesh2_kg.421___1___Locus11590v1rpkm2.17'[&!color=#ff0000]:0.069309,'WSF2_WSF2_15374_TRINITY_DN6177_c10_g7__TRINITY_DN6177_c10_g7_i1__g.15374__TRINITY_DN6177_c10_g7__TRI'[&!color=#ff0000]:0.203539)[&label=92,!color=#ff0000]:0.039912,'WSF2_WSF2_32250_TRINITY_DN6962_c5_g5__TRINITY_DN6962_c5_g5_i1__g.32250__TRINITY_DN6962_c5_g5__TRINIT'[&!color=#ff0000]:0.108158)[&label=74,!color=#ff0000]:0.009518)[&label=74,!color=#ff0000]:0.006286,(Neosp1_Neosp1_638851_MIX18880_149_98[&!color=#ff0000]:0.009446,'Neosp1_Neosp1_679086_estExt_fgenesh1_pg.C_3900016'[&!color=#ff0000]:0.004378)[&label=100,!color=#ff0000]:0.060852)[&label=97,!color=#ff0000]:0.045046)[&label=80,!color=#ff0000]:0.03137,'Orpsp1_1_Orpsp1_1_1179702_evm.model.c7180000067110.1'[&!color=#ff0000]:0.135085)[&label=82,!color=#ff0000]:0.033938)[&label=90,!color=#ff0000]:0.030771,(((('Anasp1_Anasp1_330057_fgenesh2_kg.354___1___Locus4058v1rpkm8.90'[&!color=#ff0000]:0.322192,(('Neosp1_Neosp1_670432_estExt_fgenesh1_pg.C_720055'[&!color=#ff0000]:0.136779,'WSF3_WSF3_27727_TRINITY_DN8178_c2_g1__TRINITY_DN8178_c2_g1_i11__g.27727__TRINITY_DN8178_c2_g1__TRINI'[&!color=#ff0000]:0.133989)[&label=100,!color=#ff0000]:0.06347,'YC3_YC3_20461_TRINITY_DN4105_c10_g5__TRINITY_DN4105_c10_g5_i1__g.20461__m.20461_TRINITY_DN4105_c10_g'[&!color=#ff0000]:0.148637)[&label=100,!color=#ff0000]:0.087917)[&label=43,!color=#ff0000]:0.021332,'PirE2_1_PirE2_1_12499_gm1.11317_g'[&!color=#ff0000]:0.379615)[&label=64,!color=#ff0000]:0.07766,'Neosp1_Neosp1_679316_estExt_fgenesh1_pg.C_4210003'[&!color=#ff0000]:0.127737)[&label=100,!color=#ff0000]:0.116751,((((((((((((((('Anasp1_Anasp1_265696_estExt_fgenesh1_pg.C_300017'[&!color=#ff0000]:0.25437,('C3J_C3J_32897_TR13792_c1_g1_i1__g.32897__m.32897_type_3prime_partial_len_340_gc_universal_TR13792_c1'[&!color=#ff0000]:0.109608,'Iso3_Iso3_28243_Gene.28243__TR18368_c0_g1_i1__g.28243__m.28243_Gene.28243__TR18368_c0_g1_i1__g.28243'[&!color=#ff0000]:0.19911)[&label=100,!color=#ff0000]:0.19768)[&label=92,!color=#ff0000]:0.017837,'PirE2_1_PirE2_1_13282_gm1.12100_g'[&!color=#ff0000]:0.165369)[&label=89,!color=#ff0000]:0.024757,'PirE2_1_PirE2_1_16996_gm1.15814_g'[&!color=#ff0000]:0.198357)[&label=80,!color=#ff0000]:0.032889,(('Anasp1_Anasp1_294801_estExt_Genemark1.C_1800018'[&!color=#ff0000]:0.294371,(('Anasp1_Anasp1_295777_estExt_Genemark1.C_2400011'[&!color=#ff0000]:0.161731,((Anasp1_Anasp1_305391_MIX6333_534_54[&!color=#ff0000]:0.058098,'Anasp1_Anasp1_330235_fgenesh2_kg.380___2___Locus3373v1rpkm12.52'[&!color=#ff0000]:0.058383)[&label=91,!color=#ff0000]:0.017063,'Anasp1_Anasp1_330234_fgenesh2_kg.380___1___Locus4694v1rpkm6.73'[&!color=#ff0000]:0.018283)[&label=91,!color=#ff0000]:0.044161)[&label=92,!color=#ff0000]:0.033421,((('C3G_C3G_6164_TRINITY_DN8951_c1_g1__TRINITY_DN8951_c1_g1_i1__g.6164__m.6164_type_complete_len_632_gc_'[&!color=#ff0000]:0.036484,'C3J_C3J_33178_TR13816_c0_g1_i2__g.33178__m.33178_type_5prime_partial_len_643_gc_universal_TR13816_c0'[&!color=#ff0000]:0.006529)[&label=92,!color=#ff0000]:0.01899,'NA_NA_28982_TR12624_c0_g1_i2__g.28982__m.28982_type_5prime_partial_len_649_gc_universal_TR12624_c0_g'[&!color=#ff0000]:0.004383)[&label=91,!color=#ff0000]:0.016636,'C3J_C3J_32903_TR13792_c1_g3_i5__g.32903__m.32903_type_3prime_partial_len_481_gc_universal_TR13792_c1'[&!color=#ff0000]:0.025863)[&label=100,!color=#ff0000]:0.072642)[&label=92,!color=#ff0000]:0.023143)[&label=94,!color=#ff0000]:0.012111,('FS3C_FS3C_28347_TRINITY_DN5516_c4_g2__TRINITY_DN5516_c4_g2_i1__g.28347__TRINITY_DN5516_c4_g2__TRINIT'[&!color=#ff0000]:0.02211,'Orpsp1_1_Orpsp1_1_1181724_evm.model.c7180000075097.1'[&!color=#ff0000]:0.005798)[&label=100,!color=#ff0000]:0.093215)[&label=99,!color=#ff0000]:0.046857)[&label=88,!color=#ff0000]:0.047834,('C3G_C3G_3365_TRINITY_DN23581_c0_g1__TRINITY_DN23581_c0_g1_i1__g.3365__m.3365_type_internal_len_281_g'[&!color=#ff0000]:0.113831,'Iso3_Iso3_12816_Gene.12816__TR10356_c0_g1_i1__g.12816__m.12816_Gene.12816__TR10356_c0_g1_i1__g.12816'[&!color=#ff0000]:0.363807)[&label=88,!color=#ff0000]:0.06853)[&label=98,!color=#ff0000]:0.043044,('B4_B4_57595_Gene.57595__TR33243_c3_g1_i6__g.57595__m.57595_type_internal_len_366_gc_universal_TR3324'[&!color=#ff0000]:0.033577,'B5_B5_50542_Gene.50542__TR46673_c2_g1_i2__g.50542__m.50542_type_3prime_partial_len_353_gc_universal'[&!color=#ff0000]:0.034712)[&label=100,!color=#ff0000]:0.091173)[&label=93,!color=#ff0000]:0.048802,'Brit4_Brit4_2790_TRINITY_DN6737_c7_g4__TRINITY_DN6737_c7_g4_i1__g.2790__m.2790_TRINITY_DN6737_c7_g4_'[&!color=#ff0000]:0.319217)[&label=78,!color=#ff0000]:0.045903,('Pirfi3_Pirfi3_356560_estExt_Genewise1Plus.C_33_t10035'[&!color=#ff0000]:0.007702,'Pirfi3_Pirfi3_414173_estExt_fgenesh1_pg.C_330005'[&!color=#ff0000]:0.007988)[&label=100,!color=#ff0000]:0.289024)[&label=100,!color=#ff0000]:0.152518,('PirE2_1_PirE2_1_5442_gm1.4260_g'[&!color=#ff0000]:0.158594,'Pirfi3_Pirfi3_409988_estExt_fgenesh1_pg.C_60199'[&!color=#ff0000]:0.155143)[&label=100,!color=#ff0000]:0.077178)[&label=92,!color=#ff0000]:0.030751,(('B5_B5_55629_Gene.55629__TR47210_c13_g1_i1__g.55629__m.55629_type_internal_len_576_gc_universal_TR472'[&!color=#ff0000]:0.076678,'Pirfi3_Pirfi3_581087_fgenesh2_kg.6___195___Locus1803v1rpkm17.71'[&!color=#ff0000]:0.117069)[&label=100,!color=#ff0000]:0.035352,'PirE2_1_PirE2_1_5441_gm1.4259_g'[&!color=#ff0000]:0.112583)[&label=100,!color=#ff0000]:0.139324)[&label=99,!color=#ff0000]:0.061544,((('Anasp1_Anasp1_329210_fgenesh2_kg.250___4___Locus3155v1rpkm13.95'[&!color=#ff0000]:0.061832,'C3G_C3G_17122_TRINITY_DN14770_c0_g1__TRINITY_DN14770_c0_g1_i1__g.17122__m.17122_type_complete_len_63'[&!color=#ff0000]:0.116185)[&label=100,!color=#ff0000]:0.076227,(('FS3C_FS3C_28354_TRINITY_DN5516_c4_g7__TRINITY_DN5516_c4_g7_i1__g.28354__TRINITY_DN5516_c4_g7__TRINIT'[&!color=#ff0000]:0.00478,'Orpsp1_1_Orpsp1_1_1180421_evm.model.c7180000070040.2'[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.102412,('WSF2_WSF2_44490_TRINITY_DN6013_c0_g1__TRINITY_DN6013_c0_g1_i9__g.44490__TRINITY_DN6013_c0_g1__TRINIT'[&!color=#ff0000]:3.0E-6,'WSF3_WSF3_38604_TRINITY_DN8603_c5_g2__TRINITY_DN8603_c5_g2_i3__g.38604__TRINITY_DN8603_c5_g2__TRINIT'[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.13417)[&label=98,!color=#ff0000]:0.043116)[&label=98,!color=#ff0000]:0.026125,('Brit4_Brit4_7458_TRINITY_DN6466_c3_g4__TRINITY_DN6466_c3_g4_i1__g.7458__m.7458_TRINITY_DN6466_c3_g4_'[&!color=#ff0000]:0.065222,'Iso3_Iso3_32479_Gene.32479__TR19937_c0_g2_i2__g.32479__m.32479_Gene.32479__TR19937_c0_g2_i2__g.32479'[&!color=#ff0000]:0.100119)[&label=100,!color=#ff0000]:0.06608)[&label=100,!color=#ff0000]:0.174687)[&label=100,!color=#ff0000]:0.074376,('PirE2_1_PirE2_1_2486_gm1.1304_g'[&!color=#ff0000]:0.064633,('PirE2_1_PirE2_1_5444_gm1.4262_g'[&!color=#ff0000]:0.083786,'Pirfi3_Pirfi3_345772_estExt_Genewise1Plus.C_6_t20199'[&!color=#ff0000]:0.113765)[&label=94,!color=#ff0000]:0.023559)[&label=100,!color=#ff0000]:0.031014)[&label=94,!color=#ff0000]:0.03392,(((('Anasp1_Anasp1_275012_gm1.1006_g'[&!color=#ff0000]:0.145934,'Anasp1_Anasp1_293955_estExt_Genemark1.C_1370024'[&!color=#ff0000]:0.09081)[&label=91,!color=#ff0000]:0.013665,((((('FS3C_FS3C_4471_TRINITY_DN5958_c1_g1__TRINITY_DN5958_c1_g1_i6__g.4471__TRINITY_DN5958_c1_g1__TRINITY_'[&!color=#ff0000]:2.0E-6,'FX4B_FX4B_18029_TRINITY_DN3737_c1_g1__TRINITY_DN3737_c1_g1_i1__g.18029__TRINITY_DN3737_c1_g1__TRINIT'[&!color=#ff0000]:2.0E-6)[&label=59,!color=#ff0000]:2.0E-6,'Orpsp1_1_Orpsp1_1_1186381_evm.model.c7180000094382.1'[&!color=#ff0000]:0.009406)[&label=100,!color=#ff0000]:0.063196,'YC3_YC3_16201_TRINITY_DN3972_c6_g1__TRINITY_DN3972_c6_g1_i1__g.16201__m.16201_TRINITY_DN3972_c6_g1__'[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.038861,'Orpsp1_1_Orpsp1_1_1175978_evm.model.c7180000052847.1'[&!color=#ff0000]:0.008903)[&label=100,!color=#ff0000]:0.042778,(('Neosp1_Neosp1_510107_fgenesh1_pg.104___8'[&!color=#ff0000]:0.004706,('Neosp1_Neosp1_510108_fgenesh1_pg.104___9'[&!color=#ff0000]:0.004684,'Neosp1_Neosp1_510110_fgenesh1_pg.104___11'[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.004614)[&label=100,!color=#ff0000]:0.004713,Neosp1_Neosp1_620865_MIX894_8_30[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.056346)[&label=92,!color=#ff0000]:0.015754)[&label=100,!color=#ff0000]:0.05393,'PirE2_1_PirE2_1_15943_gm1.14761_g'[&!color=#ff0000]:0.115824)[&label=97,!color=#ff0000]:0.024571,'Orpsp1_1_Orpsp1_1_1179782_evm.model.c7180000067400.1'[&!color=#ff0000]:0.151573)[&label=94,!color=#ff0000]:0.026105)[&label=95,!color=#ff0000]:0.032058,('Orpsp1_1_Orpsp1_1_1179708_evm.model.c7180000067125.1'[&!color=#ff0000]:2.0E-6,'Orpsp1_1_Orpsp1_1_1187945_evm.model.d7180000055626.1'[&!color=#ff0000]:0.046034)[&label=100,!color=#ff0000]:0.110155)[&label=100,!color=#ff0000]:0.243525,(Neosp1_Neosp1_640852_MIX20881_3_16[&!color=#ff0000]:0.004744,Neosp1_Neosp1_640854_MIX20883_2_14[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.187883)[&label=59,!color=#ff0000]:0.036786)[&label=70,!color=#ff0000]:0.063735)[&label=55,!color=#ff0000]:0.023153,(('Hef5_Hef5_24931_Gene.24931__TR17734_c0_g1_i1__g.24931__m.24931_Gene.24931__TR17734_c0_g1_i1__g.24931'[&!color=#ff0000]:0.023567,'Neosp1_Neosp1_508092_fgenesh1_pg.76___20'[&!color=#ff0000]:0.037899)[&label=100,!color=#ff0000]:0.231633,((((((((((((Lachnospiraceae_bacterium_R6NI92_55-302[&!color=#66ccff]:0.551099,Eubacterium_infirmum_H1PJH2_85-332[&!color=#66ccff]:0.371839)[&label=96,!color=#66ccff]:0.12174,(((Lachnospiraceae_bacterium_R9J5D6_73-323[&!color=#66ccff]:0.292617,Lachnospiraceae_bacterium_R9KQJ4_95-344[&!color=#66ccff]:0.232766)[&label=100,!color=#66ccff]:0.220627,Clostridium_stercorarium_L7VQR5_90-387[&!color=#66ccff]:0.564255)[&label=87,!color=#66ccff]:0.05828,Lachnospiraceae_bacterium_R9KF64_92-341[&!color=#66ccff]:0.37322)[&label=84,!color=#66ccff]:0.060603)[&label=82,!collapse={"collapsed",1.1697696663999997},!color=#66ccff]:0.054058,((((Butyrivibrio_proteoclasticus_E0S0X0_131-383:0.26325,Slackia_heliotrinireducens_C7N1V3_112-364:0.203163)[&label=100]:0.104279,Solobacterium_moorei_E7MPP4_87-336:0.465597)[&label=92]:0.047764,(Ruminococcus_albus_E6UH47_75-327:0.153731,Ruminococcus_flavefaciens_W7UGE5_82-335:0.168139)[&label=100]:0.182384)[&label=100]:0.248145,Shuttleworthia_satelles_C4GCI5_90-332:0.457568)[&label=93,!collapse={"collapsed",1.0121656103999994}]:0.133293)[&label=68]:0.035942,(Roseburia_inulinivorans_R5HY49_93-400:0.524903,((Olsenella_sp_G5F167_130-400:0.500908,Firmicutes_bacterium_R6F067_70-304:0.448701)[&label=96]:0.092279,(Blautia_sp_R7JSW3_124-384:0.430548,Peptostreptococcaceae_bacterium_J4TAQ5_87-323:0.600938)[&label=95]:0.081141)[&label=93]:0.058488)[&label=71,!collapse={"collapsed",1.1526842924999996}]:0.049654)[&label=97]:0.138632,(Desulfitobacterium_hafniense_Q24Y85_86-386[&!color=#66ccff]:0.598019,Marvinbryantia_formatexigens_C6LI05_95-382[&!color=#66ccff]:0.564277)[&label=94,!collapse={"collapsed",1.3879002757999999},!color=#66ccff]:0.095619)[&label=96]:0.088335,((Cryptobacterium_curtum_C7MME2_108-359[&!color=#800080]:0.617791,((Slackia_piriformis_K0YXK2_115-365[&!color=#800080]:0.325708,Adlercreutzia_equolifaciens_S6C770_119-338[&!color=#800080]:0.286853)[&label=78,!color=#800080]:0.088337,Eggerthella_lenta_C8WKR1_151-371[&!color=#800080]:0.220759)[&label=97,!color=#800080]:0.134659)[&label=99,!collapse={"collapsed",1.3902144753999996},!color=#800080]:0.080729,Methanocorpusculum_labreanum_A2SQ64_83-403[&!color=#ff8000]:0.549055)[&label=97]:0.081139)[&label=72]:0.053755,(Syntrophobotulus_glycolicus_F0SYP4_82-361[&!color=#66ffff]:0.45153,Ruminococcus_albus_E6UH17_81-445[&!color=#66ffff]:0.615882)[&label=78,!collapse={"collapsed",1.4770739899999996},!color=#66ffff]:0.130672)[&label=93]:0.059368,((((((Xylanimonas_cellulosilytica_D1C0K7_108-371[&!color=#800080]:0.364144,('Cellulomonas_flavigena_WP_013116373.1_hypothetical_protein__Cellulomonas_flavigena_'[&!color=#800080]:0.10291,'Cellulomonas_flavigena_WP_013116374.1_hypothetical_protein__Cellulomonas_flavigena_'[&!color=#800080]:0.073936)[&label=100,!color=#800080]:0.30376)[&label=97,!color=#800080]:0.033163,(Sanguibacter_keddieii_D1BCC2_100-367[&!color=#800080]:0.214251,Cellulomonas_fimi_F4H3C7_106-370[&!color=#800080]:0.233315)[&label=99,!color=#800080]:0.056831)[&label=99,!collapse={"collapsed",1.3309234406999995},!color=#800080]:0.071377,Gemmatimonas_aurantiaca_C1AAE0_125-385:0.466339)[&label=100]:0.197823,((Brachybacterium_phenoliresistens_Z9JUC2_86-337[&!color=#800080]:0.396758,Jonesia_denitrificans_C7QZY8_91-348[&!color=#800080]:0.424122)[&label=84,!color=#800080]:0.092795,Pseudarthrobacter_chlorophenolicus_B8HFZ5_99-345[&!color=#800080]:0.440284)[&label=83,!collapse={"collapsed",1.4666917341999994},!color=#800080]:0.056347)[&label=94]:0.109615,((Pseudoflavonifractor_capillosus_A6NRS6_135-438[&!color=#66ffff]:0.193758,Clostridium_lentocellum_F2JJB4_102-355[&!color=#66ffff]:0.37505)[&label=96,!color=#66ffff]:0.140114,Holdemania_filiformis_B9YAY1_91-365[&!color=#66ffff]:0.316938)[&label=100,!collapse={"collapsed",0.40822973039999955},!color=#66ffff]:1.226177)[&label=91]:0.087655,'Anaerotruncus_sp._G3_R9LFA9_56-387':0.429828)[&label=83]:0.045771)[&label=79]:0.041778,((((Oceanobacillus_picturae_W9AMP1_76-417[&!color=#66ffff]:0.550831,Desulfosporosinus_youngiae_H5XXH7_79-371[&!color=#66ffff]:0.616547)[&label=69,!color=#66ffff]:0.135648,(Clostridium_lentocellum_F2JP69_95-395[&!color=#66ffff]:0.498511,Bacillus_azotoformans_K6DIH1_91-377[&!color=#66ffff]:0.327432)[&label=81,!color=#66ffff]:0.094432)[&label=45,!color=#66ffff]:0.088428,'Paenibacillus_mucilaginosus_WP_014368460.1_carbohydrate-binding_domain-containing_protein__Paenibaci'[&!color=#66ffff]:0.324881)[&label=95,!collapse={"collapsed",1.2938204063999996},!color=#66ffff]:0.108817,((((Ruminococcus_flavefaciens_W7UM54_137-388[&!color=#66ffff]:0.256628,Ruminococcus_flavefaciens_W7UW60_139-390[&!color=#66ffff]:0.376016)[&label=99,!color=#66ffff]:0.193288,Ruminococcus_champanellensis_D4L9K5_123-388[&!color=#66ffff]:0.322122)[&label=100,!color=#66ffff]:0.523441,(Turicibacter_sanguinis_D4W5L2_74-354[&!color=#66ffff]:0.311022,Clostridium_celatum_L1Q6H2_67-347[&!color=#66ffff]:0.284437)[&label=94,!color=#66ffff]:0.077922)[&label=87,!collapse={"collapsed",0.9969434475999992},!color=#66ffff]:0.093456,((Methanofollis_liminatans_J0SB26_80-359[&!color=#ff8000]:0.200934,Youngiibacter_fragilis_V7I1Z8_98-374:0.498427)[&label=47]:0.016477,Methanolacinia_petrolearia_E1RD34_94-376[&!color=#ff8000]:0.203812)[&label=77]:0.033106)[&label=91]:0.060116)[&label=89]:0.081513)[&label=80]:0.030246,((((Butyrivibrio_crossotus_R5LE19_73-318:0.585248,((Clostridium_thermocellum_A3DDD5_139-377:0.559911,((Capnocytophaga_sp_F0IGU7_95-376[&!color=#ffff33]:1.354046,((Paraprevotella_clara_R5NWY7_117-408[&!color=#ffff33]:0.872183,Bacteroides_thetaiotaomicron_Q8A6T0_117-361[&!color=#ffff33]:0.207008)[&label=100,!color=#ffff33]:0.163429,Bacteroides_cellulosilyticus_R6KIA5_117-382[&!color=#ffff33]:0.303821)[&label=100,!color=#ffff33]:0.261714)[&label=100,!color=#ffff33]:0.188072,Prevotella_sp_R5PPA9_100-374[&!color=#ffff33]:1.023847)[&label=100,!collapse={"collapsed",8.881784197001252E-16},!color=#ffff33]:0.429745)[&label=97]:0.17437,Weissella_confusa_H1X9B0_91-341:0.767624)[&label=92]:0.099771)[&label=90]:0.089074,(Fibrobacter_succinogenes_D9S755_112-377[&!color=#66ff66]:0.554542,Fibrobacter_succinogenes_C9RN77_191-498[&!color=#66ff66]:0.407731)[&label=97,!collapse={"collapsed",1.5438448087000012},!color=#66ff66]:0.236691)[&label=78]:0.069957,((Faecalibacterium_sp_R7ILX8_40-324[&!color=#66ffff]:0.752912,Clostridium_thermocellum_A3DHD2_56-282[&!color=#66ffff]:0.661449)[&label=62,!color=#66ffff]:0.043255,(((Coprobacillus_sp_R5FW97_289-548[&!color=#66ffff]:0.611374,Staphylococcus_R6UEN0_78-333[&!color=#66ffff]:0.729092)[&label=100,!color=#66ffff]:0.141938,(Coprobacillus_sp_R7DND1_73-327[&!color=#66ffff]:0.59022,Eubacterium_eligens_C4Z222_81-435[&!color=#66ffff]:0.40962)[&label=96,!color=#66ffff]:0.085914)[&label=100,!color=#66ffff]:0.378603,((Ruminococcus_albus_E6UH50_143-458[&!color=#66ffff]:0.143373,Ruminococcus_flavefaciens_W7UM54_506-834[&!color=#66ffff]:0.143887)[&label=100,!color=#66ffff]:0.268408,Ruminococcus_champanellensis_D4L9K5_469-775[&!color=#66ffff]:0.209762)[&label=100,!color=#66ffff]:0.390119)[&label=98,!color=#66ffff]:0.15322)[&label=80,!collapse={"collapsed",0.9241989919000018},!color=#66ffff]:0.077984)[&label=78]:0.058675,(Erysipelotrichaceae_bacterium_E2SKD2_64-342[&!color=#66ffff]:0.823888,Ruminococcus_champanellensis_D4LFA6_96-370[&!color=#66ffff]:0.417927)[&label=86,!collapse={"collapsed",1.4089238058999998},!color=#66ffff]:0.158981)[&label=68]:0.036773)[&label=82]:0.165944,(Hungatella_hathewayi_D3AMA3_63-315:0.515372,(Oribacterium_sinus_C2KW59_105-357:0.377255,'Oribacterium_sp._oral_taxon_D4CKY0_76-312':0.563158)[&label=100]:0.358403)[&label=92]:0.091076)[&label=98]:0.158064,Clostridiales_bacterium_C5EMF8_149-397:0.287599)[&label=100,!color=#ff0000,!collapse={"collapsed",0.0}]:0.522334)[&label=74,!color=#ff0000]:0.098457)[&label=69,!color=#ff0000]:0.028152,((('Brit4_Brit4_25893_TRINITY_DN7167_c0_g1__TRINITY_DN7167_c0_g1_i1__g.25893__m.25893_TRINITY_DN7167_c0_'[&!color=#ff0000]:0.510682,('Iso3_Iso3_11920_Gene.11920__TR9769_c0_g1_i1__g.11920__m.11920_Gene.11920__TR9769_c0_g1_i1__g.11920'[&!color=#ff0000]:0.300095,('PirE2_1_PirE2_1_12496_gm1.11314_g'[&!color=#ff0000]:0.174041,'Pirfi3_Pirfi3_585407_fgenesh2_kg.33___71___Locus5622v1rpkm3.31'[&!color=#ff0000]:0.207358)[&label=100,!color=#ff0000]:0.133766)[&label=91,!color=#ff0000]:0.079269)[&label=78,!color=#ff0000]:0.036918,('Brit4_Brit4_6442_TRINITY_DN6436_c6_g1__TRINITY_DN6436_c6_g1_i1__g.6442__m.6442_TRINITY_DN6436_c6_g1_'[&!color=#ff0000]:0.266074,('C3G_C3G_5587_TRINITY_DN6718_c0_g1__TRINITY_DN6718_c0_g1_i1__g.5587__m.5587_type_3prime_partial_len_6'[&!color=#ff0000]:0.14464,(((('FX4B_FX4B_30089_TRINITY_DN4311_c8_g2__TRINITY_DN4311_c8_g2_i1__g.30089__TRINITY_DN4311_c8_g2__TRINIT'[&!color=#ff0000]:2.0E-6,'S4B_S4B_32602_TRINITY_DN3545_c0_g2__TRINITY_DN3545_c0_g2_i1__g.32602__m.32602_type_3prime_partial_le'[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.002208,'Orpsp1_1_Orpsp1_1_1180902_evm.model.c7180000072120.2'[&!color=#ff0000]:0.058773)[&label=100,!color=#ff0000]:0.078181,'Pirfi3_Pirfi3_588453_fgenesh2_kg.90___1___Locus222v1rpkm360.96'[&!color=#ff0000]:0.044728)[&label=100,!color=#ff0000]:0.047581,'PirE2_1_PirE2_1_8199_gm1.7017_g'[&!color=#ff0000]:0.107465)[&label=100,!color=#ff0000]:0.043321)[&label=99,!color=#ff0000]:0.083525)[&label=69,!color=#ff0000]:0.034239)[&label=39,!color=#ff0000]:0.01363,((((((('Anasp1_Anasp1_270435_estExt_fgenesh1_pg.C_2160005'[&!color=#ff0000]:0.084832,'C3J_C3J_47439_TR23786_c0_g1_i1__g.47439__m.47439_type_complete_len_615_gc_universal_TR23786_c0_g1_i1'[&!color=#ff0000]:0.088526)[&label=100,!color=#ff0000]:0.076453,'C3G_C3G_16487_TRINITY_DN5465_c0_g1__TRINITY_DN5465_c0_g1_i1__g.16487__m.16487_type_complete_len_648'[&!color=#ff0000]:0.256226)[&label=100,!color=#ff0000]:0.117882,((('Anasp1_Anasp1_327961_fgenesh2_kg.144___5___Locus2493v1rpkm20.65'[&!color=#ff0000]:0.165944,'NA_NA_2763_TR1415_c0_g1_i1__g.2763__m.2763_type_3prime_partial_len_442_gc_universal_TR1415_c0_g1_i1_'[&!color=#ff0000]:0.159324)[&label=100,!color=#ff0000]:0.063859,'PirE2_1_PirE2_1_13245_gm1.12063_g'[&!color=#ff0000]:0.126311)[&label=100,!color=#ff0000]:0.077811,'Pirfi3_Pirfi3_584506_fgenesh2_kg.25___144___Locus1240v1rpkm29.60'[&!color=#ff0000]:0.211205)[&label=100,!color=#ff0000]:0.131093)[&label=97,!color=#ff0000]:0.083296,(('A1_A1_999_Gene.999__TR694_c0_g1_i1__g.999__m.999_type_3prime_partial_len_319_gc_universal_TR694_c0_g'[&!color=#ff0000]:0.080783,'PirE2_1_PirE2_1_12494_gm1.11312_g'[&!color=#ff0000]:0.069314)[&label=100,!color=#ff0000]:0.088677,'Pirfi3_Pirfi3_585406_fgenesh2_kg.33___70___Locus6340v1rpkm2.60'[&!color=#ff0000]:0.144019)[&label=100,!color=#ff0000]:0.122211)[&label=100,!color=#ff0000]:0.151372,'Neosp1_Neosp1_710490_fgenesh2_kg.481___2___Locus2657v1rpkm30.43'[&!color=#ff0000]:0.346365)[&label=98,!color=#ff0000]:0.098171,'Pirfi3_Pirfi3_336161_estExt_Genewise1.C_510190'[&!color=#ff0000]:0.144529)[&label=48,!color=#ff0000]:0.049515,'PirE2_1_PirE2_1_5043_gm1.3861_g'[&!color=#ff0000]:0.306398)[&label=23,!color=#ff0000]:0.022518)[&label=33,!color=#ff0000]:0.036948)[&label=50,!color=#ff0000]:0.02679,'Anasp1_Anasp1_328840_fgenesh2_kg.212___8___Locus3716v1rpkm10.41'[&!color=#ff0000]:0.171688)[&label=58,!color=#ff0000]:0.024214,('Brit4_Brit4_6443_TRINITY_DN6436_c6_g2__TRINITY_DN6436_c6_g2_i1__g.6443__m.6443_TRINITY_DN6436_c6_g2_'[&!color=#ff0000]:0.12428,'PirE2_1_PirE2_1_9302_gm1.8120_g'[&!color=#ff0000]:0.156649)[&label=81,!color=#ff0000]:0.039332)[&label=37,!color=#ff0000]:0.02057,'WSF3_WSF3_11808_TRINITY_DN8458_c5_g1__TRINITY_DN8458_c5_g1_i26__g.11808__TRINITY_DN8458_c5_g1__TRINI'[&!color=#ff0000]:0.233562)[&label=53,!color=#ff0000]:0.013151,'YC3_YC3_29332_TRINITY_DN761_c0_g1__TRINITY_DN761_c0_g1_i1__g.29332__m.29332_TRINITY_DN761_c0_g1__TRI'[&!color=#ff0000]:0.099596)[&label=51,!color=#ff0000]:0.013389,('Neosp1_Neosp1_670430_estExt_fgenesh1_pg.C_720053'[&!color=#ff0000]:0.117339,(('Orpsp1_1_Orpsp1_1_1179584_evm.model.c7180000066667.1'[&!color=#ff0000]:0.098716,'WSF2_WSF2_1735_TRINITY_DN6269_c6_g1__TRINITY_DN6269_c6_g1_i21__g.1735__TRINITY_DN6269_c6_g1__TRINITY'[&!color=#ff0000]:0.145146)[&label=56,!color=#ff0000]:0.056316,'WSF3_WSF3_29255_TRINITY_DN9222_c3_g1__TRINITY_DN9222_c3_g1_i1__g.29255__TRINITY_DN9222_c3_g1__TRINIT'[&!color=#ff0000]:0.083704)[&label=74,!color=#ff0000]:0.041629)[&label=57,!color=#ff0000]:0.021508)[&label=60,!color=#ff0000]:0.01944,((('Neosp1_Neosp1_702986_fgenesh2_kg.74___63___Locus7772v1rpkm5.12'[&!color=#ff0000]:0.096578,('Orpsp1_1_Orpsp1_1_1182088_evm.model.c7180000076574.1'[&!color=#ff0000]:2.0E-6,(('YC3_YC3_29771_TRINITY_DN3520_c3_g1__TRINITY_DN3520_c3_g1_i2__g.29771__m.29771_TRINITY_DN3520_c3_g1__'[&!color=#ff0000]:2.0E-6,'YC3_YC3_29772_TRINITY_DN3520_c3_g1__TRINITY_DN3520_c3_g1_i3__g.29772__m.29772_TRINITY_DN3520_c3_g1__'[&!color=#ff0000]:2.0E-6)[&label=100,!color=#ff0000]:0.004613,'S4B_S4B_19211_TRINITY_DN10527_c0_g1__TRINITY_DN10527_c0_g1_i1__g.19211__m.19211_type_3prime_partial'[&!color=#ff0000]:0.009234)[&label=100,!color=#ff0000]:0.009262)[&label=100,!color=#ff0000]:0.05926)[&label=100,!color=#ff0000]:0.077916,'PirE2_1_PirE2_1_12497_gm1.11315_g'[&!color=#ff0000]:0.150645)[&label=100,!color=#ff0000]:0.058769,'WSF2_WSF2_14310_TRINITY_DN6109_c5_g1__TRINITY_DN6109_c5_g1_i14__g.14310__TRINITY_DN6109_c5_g1__TRINI'[&!color=#ff0000]:0.111019)[&label=82,!color=#ff0000]:0.033571)[&label=98,!color=#ff0000]:0.060083,((('B4_B4_53914_Gene.53914__TR32771_c0_g9_i1__g.53914__m.53914_type_5prime_partial_len_561_gc_universal'[&!color=#ff0000]:0.00739,'B4_B4_53918_Gene.53918__TR32771_c0_g9_i4__g.53918__m.53918_type_internal_len_488_gc_universal_TR3277'[&!color=#ff0000]:0.011541)[&label=100,!color=#ff0000]:0.035905,'B5_B5_50142_Gene.50142__TR46599_c6_g2_i2__g.50142__m.50142_type_internal_len_308_gc_universal_TR4659'[&!color=#ff0000]:0.1218)[&label=100,!color=#ff0000]:0.125867,'PirE2_1_PirE2_1_10137_gm1.8955_g'[&!color=#ff0000]:0.112207)[&label=98,!color=#ff0000]:0.054266)[&label=100,!color=#ff0000]:0.042692,'PirE2_1_PirE2_1_9301_gm1.8119_g'[&!color=#ff0000]:0.111964)[&label=100,!color=#ff0000]:0.067017);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.5;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="label";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=20;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=true;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=256500;
+	set polarLayout.rootLength=250;
+	set polarLayout.showRoot=false;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=122;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=16;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
