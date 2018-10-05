@@ -18429,6 +18429,6 @@ Vps35                PF03635.16   729 Pirfi3|Pirfi3_314880 -            661  3.9
 # Query file:      pep/Piromyces_finnis.Pirfi3.v3.aa.fasta
 # Target file:     /srv/projects/db/pfam/2017-06-11-Pfam31.0/Pfam-A.hmm
 # Option settings: hmmscan -o domains/Pfam/Piromyces_finnis.Pirfi3.v3.aa.hmmscan --domtblout domains/Pfam/Piromyces_finnis.Pirfi3.v3.aa.domtbl --cut_ga --cpu 8 /srv/projects/db/pfam/2017-06-11-Pfam31.0/Pfam-A.hmm pep/Piromyces_finnis.Pirfi3.v3.aa.fasta 
-# Current dir:     /bigdata/stajichlab/yanwang/AGF_orthologs
-# Date:            Wed Oct 11 18:42:45 2017
+# Current dir:     /bigdata/stajichlab/yanwang/AGF_Comparative
+# Date:            Sat Oct 21 20:11:49 2017
 # [ok]
