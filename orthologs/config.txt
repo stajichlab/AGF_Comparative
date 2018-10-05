@@ -1,8 +1,0 @@
-PROJECT=AGF_Comp
-OUTGROUP=outgroup
-DOMAINS=domains
-PROTEINS=pep
-CODING=cds
-ORTHOINPUT=input
-INFLATION=15 #I 1.5
-COMPAREFOLDER=./Comparative_pipeline
